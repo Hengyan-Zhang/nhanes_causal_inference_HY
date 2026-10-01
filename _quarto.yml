@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Diabetes and Hearing Loss (NHANES)"
+  navbar:
+    left:
+      - href: report/index.qmd
+        text: Report
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true

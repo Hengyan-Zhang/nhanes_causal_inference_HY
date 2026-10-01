@@ -1,0 +1,1 @@
+-- Derive exposure, outcome and covariates; apply inclusion criteria

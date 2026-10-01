@@ -1,0 +1,1 @@
+-- Merge NHANES component tables by SEQN
